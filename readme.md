@@ -12,7 +12,7 @@ If we want to protect any api call we can protect it from accessing for that i h
  ```js
  Clone the repository and then 
 
- $ cd Volopay
+ $ cd vpay
  $ npm install
  $ npm start
 
